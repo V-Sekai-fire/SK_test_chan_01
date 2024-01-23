@@ -2,12 +2,9 @@
 
 1. add face shapes
 2. remove transparent triangles
-3. Use spring bone tool.
 4. Clean and unpack.
 5. Check that the prefab is unpacked
 6. Fix bones to be the first child
-7. Delete skirt bones that are not used.
-8. Generate spring bones.
 9. Convert to vrchat. Combine meshes, keep upper chest, osc everything
 10. Add vrc fury
 11. Add jerry's templates
