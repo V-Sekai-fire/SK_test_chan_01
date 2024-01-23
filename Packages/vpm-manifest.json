@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "com.vrchat.avatars": {
+      "version": "3.5.0"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.27"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.3.0"
+    },
+    "adjerry91.vrcft.templates": {
+      "version": "5.1.5"
+    },
+    "com.llealloo.audiolink": {
+      "version": "1.2.1"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.704.0"
+    }
+  },
+  "locked": {
+    "com.vrchat.avatars": {
+      "version": "3.5.0",
+      "dependencies": {
+        "com.vrchat.base": "3.5.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.5.0",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.27",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "3.3.0",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.1.0 <3.6.0"
+      }
+    },
+    "adjerry91.vrcft.templates": {
+      "version": "5.1.5",
+      "dependencies": {}
+    },
+    "com.llealloo.audiolink": {
+      "version": "1.2.1",
+      "dependencies": {}
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.704.0",
+      "dependencies": {}
+    }
+  }
+}
